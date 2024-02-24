@@ -1,0 +1,42 @@
+[
+  {
+    "edad": 23,
+    "genero": "M"
+  },
+  {
+    "edad": 18,
+    "genero": "F"
+  },
+  {
+    "edad": 35,
+    "genero": "O"
+  },
+  {
+    "edad": 42,
+    "genero": "F"
+  },
+  {
+    "edad": -29,
+    "genero": "X"
+  },
+  {
+    "edad": 55,
+    "genero": "M"
+  },
+  {
+    "edad": -16,
+    "genero": "F"
+  },
+  {
+    "edad": 78,
+    "genero": "M"
+  },
+  {
+    "edad": 20,
+    "genero": "F"
+  },
+  {
+    "edad": 85,
+    "genero": "O"
+  }
+]
